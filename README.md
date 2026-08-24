@@ -163,7 +163,6 @@ Building the probability foundation required for statistical reasoning.
 * Random variables
 * Discrete random variables
 * Continuous random variables
-* Expected value
 * Variance
 * Probability distributions
 
