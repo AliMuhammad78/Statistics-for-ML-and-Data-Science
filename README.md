@@ -22,7 +22,7 @@
   <i>Learn the theory → Understand the intuition → Implement with Python → Analyze the results</i>
 </p>
 
----
+--- 
 
 ## 📌 About This Repository
 
