@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Foundations-102A43?style=for-the-badge" alt="Machine Learning">
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
