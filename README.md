@@ -159,7 +159,7 @@ Building the probability foundation required for statistical reasoning.
 
 * 🎲 Probability fundamentals
 * Events
-* Conditional probability
+* Conditional probability 
 * Random variables
 * Discrete random variables
 * Continuous random variables
