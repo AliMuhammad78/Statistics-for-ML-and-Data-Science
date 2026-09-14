@@ -102,7 +102,7 @@ Statistics-for-ML-and-Data-Science/
 │   ├── 📓 02_importance_of_normal_distribution.ipynb
 │   ├── 📊 My_data_for_distribution_practice.xlsx
 │   ├── 📄 tip.csv
-│   └── 📄 Titanic-Dataset.csv
+│   └── 📄 Titanic-Dataset.csv 
 │
 ├── 📁 04_skewness-kurtosis/
 │   ├── 📓 skewness-kurtosis.ipynb
