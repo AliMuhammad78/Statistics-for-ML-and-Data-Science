@@ -64,7 +64,7 @@ The repository progresses from **fundamental statistical concepts** to more adva
              ├── T-Tests
              ├── Homogeneity of Variance
              ├── ANOVA
-             ├── MANOVA
+             ├── MANOVA 
              └── Correlation
              │
              ▼
