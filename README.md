@@ -91,7 +91,7 @@ Statistics-for-ML-and-Data-Science/
 │
 ├── 📁 01_central tendency/
 │   ├── 📓 central_tendency.ipynb
-│   └── 📄 Titanic-Dataset.csv
+│   └── 📄 Titanic-Dataset.csv 
 │
 ├── 📁 02_variability/
 │   ├── 📓 variablity.ipynb
