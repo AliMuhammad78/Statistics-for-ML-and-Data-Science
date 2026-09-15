@@ -52,7 +52,7 @@ The repository progresses from **fundamental statistical concepts** to more adva
              │                                 │
              ├── Central Tendency              ├── Probability
              ├── Variability                   ├── Random Variables
-             ├── Distributions                 └── Probability Distributions
+             ├── Distributions                 └── Probability Distributions 
              ├── Skewness
              └── Kurtosis
              │
